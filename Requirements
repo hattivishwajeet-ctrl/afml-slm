@@ -1,0 +1,10 @@
+# Developed and tested on Google Colab (Python 3.12/3.13, T4 GPU). Colab already ships torch, numpy, pandas and matplotlib.
+torch
+numpy
+pandas
+matplotlib
+datasets
+tokenizers
+transformers
+accelerate
+bitsandbytes   # 4-bit loading of the local LLM judge (NVIDIA GPU only)
