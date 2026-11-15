@@ -1,4 +1,0 @@
-model,mean_score,ci_lo,ci_hi,n_prompts
-M_dpo_b0.1_v2,0.6,0.37,0.87,30
-M_dpo_onp_e44c8e5d,0.8,0.5,1.1,30
-M_sft,0.83,0.53,1.17,30
